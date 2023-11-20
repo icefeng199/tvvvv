@@ -1,0 +1,429 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="央视",CCTV4K.1080P
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7 2M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视",CCTV8 2M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240249_1/playlist.m3u8?CONTENTID=00000110240249_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV9 2M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240250_1/playlist.m3u8?CONTENTID=00000110240250_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视",CCTV9 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240478_1/playlist.m3u8?CONTENTID=00000110240478_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视",CCTV10 2M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240251_1/playlist.m3u8?CONTENTID=00000110240251_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视",CCTV11 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视",CCTV12 2M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视",CCTV13 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15" tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视",CCTV15 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV16 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder/0/playlist.m3u8?CONTENTID=00000110240349_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视",CCTV17 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视",云南卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240082_1/playlist.m3u8?CONTENTID=00000110240082_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240026_1/playlist.m3u8?CONTENTID=00000110240026_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/吉林卫视" tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240046_1/playlist.m3u8?CONTENTID=00000110240046_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240071_1/playlist.m3u8?CONTENTID=00000110240071_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/天津卫视" tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240072_1/playlist.m3u8?CONTENTID=00000110240072_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/宁夏卫视" tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240061_1/playlist.m3u8?CONTENTID=00000110240061_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/安徽卫视" tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240024_1/playlist.m3u8?CONTENTID=00000110240024_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东卫视" tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240064_1/playlist.m3u8?CONTENTID=00000110240064_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山西卫视" tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240065_1/playlist.m3u8?CONTENTID=00000110240065_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/广西卫视" tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240037_1/playlist.m3u8?CONTENTID=00000110240037_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/新疆卫视" tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视",新疆卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240079_1/playlist.m3u8?CONTENTID=00000110240079_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240048_1/playlist.m3u8?CONTENTID=00000110240048_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江西卫视" tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240049_1/playlist.m3u8?CONTENTID=00000110240049_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河南卫视" tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视",河南卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240041_1/playlist.m3u8?CONTENTID=00000110240041_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240013_1/playlist.m3u8?CONTENTID=00000110240013_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/海南卫视" tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视",海南卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240059_1/playlist.m3u8?CONTENTID=00000110240059_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视",深圳卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240004_1/playlist.m3u8?CONTENTID=00000110240004_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240043_1/playlist.m3u8?CONTENTID=00000110240043_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240008_1/playlist.m3u8?CONTENTID=00000110240008_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/甘肃卫视" tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视",甘肃卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240034_1/playlist.m3u8?CONTENTID=00000110240034_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/西藏卫视" tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视",西藏卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240076_1/playlist.m3u8?CONTENTID=00000110240076_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/贵州卫视" tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视",贵州卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240038_1/playlist.m3u8?CONTENTID=00000110240038_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240057_1/playlist.m3u8?CONTENTID=00000110240057_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240012_1/playlist.m3u8?CONTENTID=00000110240012_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/陕西卫视" tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视",陕西卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240066_1/playlist.m3u8?CONTENTID=00000110240066_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240063_1/playlist.m3u8?CONTENTID=00000110240063_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240042_1/playlist.m3u8?CONTENTID=00000110240042_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/厦门卫视" tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240159_1/playlist.m3u8?CONTENTID=00000110240159_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/新动漫" tvg-id="新动漫" tvg-name="新动漫" group-title="其它",NNM新动漫 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240321_1/playlist.m3u8?CONTENTID=00000110240321_1
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/欢笑剧场" tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="4K频道",欢笑剧场4K
+https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16" tvg-id="CCTV16" tvg-name="CCTV16" group-title="4K频道",CCTV16-4K
+https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1综合" tvg-id="CCTV1综合" tvg-name="CCTV1综合" group-title="央视",CCTV1综合高清
+https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2财经" tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="央视",CCTV2财经高清
+https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7国防军事" tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" group-title="央视",CCTV7国防军事高清
+https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8电视剧" tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" group-title="央视",CCTV8电视剧高清
+https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12社会与法" tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" group-title="央视",CCTV12社会与法高清
+https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13新闻" tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" group-title="央视",CCTV13新闻高清
+https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14少儿" tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" group-title="央视",CCTV14少儿高清
+https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15音乐" tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" group-title="央视",CCTV15音乐高清
+https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16奥林匹克" tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" group-title="央视",CCTV16奥林匹克高清
+https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视",江苏卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/天津卫视" tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视",天津卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/安徽卫视" tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视",安徽卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=anhuiSD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=hebeiSD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江西卫视" tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视",江西卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视高清
+https://live.goodiptv.club/api/cqyx.php?id=hunanHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山西卫视" tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
+https://live.goodiptv.club/api/cqyx.php?id=shanxiSD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/兵团卫视" tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视",兵团卫视
+https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/宁夏卫视" tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
+https://live.goodiptv.club/api/cqyx.php?id=ningxia
+#EXTINF:-1,山东教育卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240304_1/playlist.m3u8?CONTENTID=00000110240304_1
+#EXTINF:-1,海南三沙卫视 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240589_1/playlist.m3u8?CONTENTID=00000110240589_1
+#EXTINF:-1,北京卡酷少儿 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240051_1/playlist.m3u8?CONTENTID=00000110240051_1
+#EXTINF:-1,广东嘉佳卡通 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240087_1/playlist.m3u8?CONTENTID=00000110240087_1
+#EXTINF:-1,江苏财富天下 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240148_1/playlist.m3u8?CONTENTID=00000110240148_1
+#EXTINF:-1,湖南先锋乒羽 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240320_1/playlist.m3u8?CONTENTID=00000110240320_1
+#EXTINF:-1,北京卡酷少儿
+https://live.goodiptv.club/api/cqyx.php?id=bjkakuSD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
+https://live.goodiptv.club/api/cqyx.php?id=qinghaiSD
+#EXTINF:-1,CETV1 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240302_1/playlist.m3u8?CONTENTID=00000110240302_1
+#EXTINF:-1,CHC动作电影 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
+#EXTINF:-1,CHC家庭影院 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
+#EXTINF:-1,CHC高清电影 8M1080
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+#EXTINF:-1,IPTV少儿动画 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240092_1/playlist.m3u8?CONTENTID=00000110240092_1
+#EXTINF:-1,IPTV收视指南 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240225_1/playlist.m3u8?CONTENTID=00000110240225_1
+#EXTINF:-1,IPTV法治 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240096_1/playlist.m3u8?CONTENTID=00000110240096_1
+#EXTINF:-1,IPTV热播剧场 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240089_1/playlist.m3u8?CONTENTID=00000110240089_1
+#EXTINF:-1,IPTV相声小品 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240006_1/playlist.m3u8?CONTENTID=00000110240006_1
+#EXTINF:-1,IPTV经典电影 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240090_1/playlist.m3u8?CONTENTID=00000110240090_1
+#EXTINF:-1,IPTV谍战剧场 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240003_1/playlist.m3u8?CONTENTID=00000110240003_1
+#EXTINF:-1,IPTV魅力时尚 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240091_1/playlist.m3u8?CONTENTID=00000110240091_1
+#EXTINF:-1,咪咕体育4K
+http://r.jdshipin.com/ln4xk
+#EXTINF:-1,苏州4K频道
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1,家庭影院 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240278_1/playlist.m3u8?CONTENTID=00000110240278_1
+#EXTINF:-1,武侠剧场 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240308_1/playlist.m3u8?CONTENTID=00000110240308_1
+#EXTINF:-1,军事 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240311_1/playlist.m3u8?CONTENTID=00000110240311_1
+#EXTINF:-1,动画 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240335_1/playlist.m3u8?CONTENTID=00000110240335_1
+#EXTINF:-1,国学 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240332_1/playlist.m3u8?CONTENTID=00000110240332_1
+#EXTINF:-1,戏曲 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240333_1/playlist.m3u8?CONTENTID=00000110240333_1
+#EXTINF:-1,武术 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240312_1/playlist.m3u8?CONTENTID=00000110240312_1
+#EXTINF:-1,精选 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240275_1/playlist.m3u8?CONTENTID=00000110240275_1
+#EXTINF:-1,足球 576
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240309_1/playlist.m3u8?CONTENTID=00000110240309_1
+#EXTINF:-1,中国天气
+https://live.goodiptv.club/api/cqyx.php?id=tianqiSD
+#EXTINF:-1,山东教育卫视
+https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/生活时尚" tvg-id="生活时尚" tvg-name="生活时尚" group-title="其他",生活时尚
+https://live.goodiptv.club/api/cqyx.php?id=shenghuo
+#EXTINF:-1,百姓健康
+https://live.goodiptv.club/api/cqyx.php?id=jiankangSD
+#EXTINF:-1,快乐垂钓高清
+https://live.goodiptv.club/api/cqyx.php?id=klcdHD
+#EXTINF:-1,第一剧场高清
+https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
+#EXTINF:-1,都市剧场高清
+https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+#EXTINF:-1,求索纪录高清
+https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+#EXTINF:-1,兵器科技高清
+https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/游戏风云" tvg-id="游戏风云" tvg-name="游戏风云" group-title="其他",游戏风云高清
+https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
+#EXTINF:-1,怀旧剧场高清
+https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
+#EXTINF:-1,风云音乐高清
+https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
+#EXTINF:-1,央视台球高清
+https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+#EXTINF:-1,重庆新闻高清
+https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
+#EXTINF:-1,重庆社会与法高清
+https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
+#EXTINF:-1,重庆时尚生活高清
+https://live.goodiptv.club/api/cqyx.php?id=cqssgwHD
+#EXTINF:-1,重庆科教高清
+https://live.goodiptv.club/api/cqyx.php?id=CQTVkejiaoHD
+#EXTINF:-1,爱看导视高清
+https://live.goodiptv.club/api/cqyx.php?id=aikanHD
+#EXTINF:-1,重庆汽摩高清
+https://live.goodiptv.club/api/cqyx.php?id=cqcarSD
+#EXTINF:-1,风尚购物
+https://live.goodiptv.club/api/cqyx.php?id=fsgw
+#EXTINF:-1,聚鲨环球精选
+https://live.goodiptv.club/api/cqyx.php?id=jusha
+#EXTINF:-1,中视购物
+https://live.goodiptv.club/api/cqyx.php?id=ysgw
+#EXTINF:-1,央广购物
+https://live.goodiptv.club/api/cqyx.php?id=yggw
+#EXTINF:-1,证券服务
+https://live.goodiptv.club/api/cqyx.php?id=jiazheng
+#EXTINF:-1,书画
+https://live.goodiptv.club/api/cqyx.php?id=shuhua
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/新动漫" tvg-id="新动漫" tvg-name="新动漫" group-title="其他",新动漫
+https://live.goodiptv.club/api/cqyx.php?id=dongman
+#EXTINF:-1,中华特产
+https://live.goodiptv.club/api/cqyx.php?id=techan
+#EXTINF:-1,环球奇观
+https://live.goodiptv.club/api/cqyx.php?id=car
+#EXTINF:-1,发现之旅
+https://live.goodiptv.club/api/cqyx.php?id=faxian
+#EXTINF:-1,法治天地
+https://live.goodiptv.club/api/cqyx.php?id=fazhi
+#EXTINF:-1,财富天下
+https://live.goodiptv.club/api/cqyx.php?id=caifu
+#EXTINF:-1,中学生
+https://live.goodiptv.club/api/cqyx.php?id=qicai
+#EXTINF:-1,先锋乒羽
+https://live.goodiptv.club/api/cqyx.php?id=xianfeng
+#EXTINF:-1,老故事
+https://live.goodiptv.club/api/cqyx.php?id=gushi
+#EXTINF:-1,摄影频道
+https://live.goodiptv.club/api/cqyx.php?id=sheying
+#EXTINF:-1,新昌休闲
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1,新泰影院
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+#EXTINF:-1,绍兴影院
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1,⑴电影轮播
+http://bp-caster.bestv.com.cn/494/1/video.m3u8
+#EXTINF:-1,⑵电影轮播
+http://bp-caster.bestv.com.cn/532/1/video.m3u8
+#EXTINF:-1,隆化影院
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+#EXTINF:-1,菏泽影院
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1,韩国劲舞
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv5iohQYo__u7rAY.mp4
+#EXTINF:-1,相声专场
+http://bp-caster.bestv.com.cn/512/1/video.m3u8
+#EXTINF:-1,南宁影院娱乐
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1,1.华语经典
+http://epg.112114.xyz/douyu/434971
+#EXTINF:-1,4.神乐影片1
+http://epg.112114.xyz/douyu/122402
+#EXTINF:-1,5.神乐影片2
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1,8.特辑影院
+http://epg.112114.xyz/douyu/3637778
+#EXTINF:-1,9.贝爷MAX厅
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1,10.漫威影片
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1,13.刘德华电影1
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1,16.豆瓣高分
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1,17.林正英电影1
+http://epg.112114.xyz/douyu/218859
+#EXTINF:-1,18.林正英电影2
+http://epg.112114.xyz/douyu/7356023
+#EXTINF:-1,19.宇哥电影
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1,24.贝爷影厅1
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1,25.贝爷影厅2
+http://epg.112114.xyz/douyu/36337
+#EXTINF:-1,26.霍格影片
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1,27.可乐电影
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1,28.冰冰经典电影
+http://epg.112114.xyz/douyu/74374
+#EXTINF:-1,29.奶虫恐怖电影
+http://epg.112114.xyz/douyu/263824
+#EXTINF:-1,32.避风港影院
+http://epg.112114.xyz/douyu/9826611
+#EXTINF:-1,41.恐怖经典
+http://epg.112114.xyz/douyu/1165374
+#EXTINF:-1,44.小U电影
+http://epg.112114.xyz/douyu/96577
+#EXTINF:-1,45.小宇60帧
+http://epg.112114.xyz/douyu/323876
+#EXTINF:-1,46.华语电影
+http://epg.112114.xyz/douyu/3928
+#EXTINF:-1,48.恐怖电影
+http://epg.112114.xyz/douyu/310926
+#EXTINF:-1,49.喜剧电影
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1,50.欧美大片
+http://epg.112114.xyz/douyu/2793084
+#EXTINF:-1,52.国产影片
+http://epg.112114.xyz/douyu/5423
+#EXTINF:-1,53.麓山迷踪
+http://epg.112114.xyz/douyu/4505431
+#EXTINF:-1,56.译制影片
+http://epg.112114.xyz/douyu/2436390
+#EXTINF:-1,斗鱼电影1
+http://···/douyu/9249162
+#EXTINF:-1,斗鱼4K影院
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1,影厅4
+http://epg.112114.xyz/douyu/431460
+#EXTINF:-1,影厅16
+http://epg.112114.xyz/douyu/1979257
+#EXTINF:-1,影厅26
+http://epg.112114.xyz/douyu/8413092
+#EXTINF:-1,影厅27
+http://epg.112114.xyz/douyu/6079455
+#EXTINF:-1,影厅39
+http://epg.112114.xyz/douyu/2935323
+#EXTINF:-1,影厅45
+http://epg.112114.xyz/douyu/2337939
+#EXTINF:-1,影厅51
+http://epg.112114.xyz/douyu/1226741
+#EXTINF:-1,影厅60
+http://epg.112114.xyz/douyu/3508304
+#EXTINF:-1,影厅70
+http://epg.112114.xyz/douyu/6863367
+#EXTINF:-1,影厅71
+http://epg.112114.xyz/douyu/2987100
+#EXTINF:-1,影厅72
+http://epg.112114.xyz/douyu/6369954
+#EXTINF:-1,影厅77
+http://epg.112114.xyz/douyu/2758565
+#EXTINF:-1,影厅81
+http://epg.112114.xyz/douyu/3870925
+#EXTINF:-1,影厅92
+http://epg.112114.xyz/douyu/7537296
+#EXTINF:-1,影厅105
+http://epg.112114.xyz/douyu/4290711
+#EXTINF:-1,影厅110
+http://epg.112114.xyz/douyu/8415464
+#EXTINF:-1,影厅111
+http://epg.112114.xyz/douyu/8475821
+#EXTINF:-1,影厅113
+http://epg.112114.xyz/douyu/5522351
+#EXTINF:-1,影厅117
+http://epg.112114.xyz/douyu/338759
+#EXTINF:-1,影厅120
+http://epg.112114.xyz/douyu/5354713
+#EXTINF:-1,影厅121
+http://epg.112114.xyz/douyu/7459925
+#EXTINF:-1,影厅122
+http://epg.112114.xyz/douyu/3485629
+#EXTINF:-1,影厅125
+http://epg.112114.xyz/douyu/5067952
+#EXTINF:-1,影厅130
+http://epg.112114.xyz/douyu/8014467
+#EXTINF:-1,影厅134
+http://epg.112114.xyz/douyu/6725858
+#EXTINF:-1,影厅135
+http://epg.112114.xyz/douyu/7476264
+#EXTINF:-1,影厅137
+http://epg.112114.xyz/douyu/1274132
+#EXTINF:-1,影厅149
+http://epg.112114.xyz/douyu/6582435
+#EXTINF:-1,影厅151
+http://epg.112114.xyz/douyu/426517
+#EXTINF:-1,影厅153
+http://epg.112114.xyz/douyu/8799435
+#EXTINF:-1,影厅155
+http://epg.112114.xyz/douyu/4258555
+#EXTINF:-1,影厅168
+http://epg.112114.xyz/douyu/6861249
+#EXTINF:-1,影厅169
+http://epg.112114.xyz/douyu/7528160
+#EXTINF:-1,影厅174
+http://epg.112114.xyz/douyu/8317926
+#EXTINF:-1,热舞178
+http://epg.112114.xyz/douyu/17732
+#EXTINF:-1,音乐190
+http://epg.112114.xyz/douyu/8666210
+#EXTINF:-1,新版三国
+http://epg.112114.xyz/douyu/276200
+#EXTINF:-1,地下交通站
+http://epg.112114.xyz/douyu/299854
+#EXTINF:-1,燕双鹰系列
+http://epg.112114.xyz/douyu/3439096
+#EXTINF:-1,神探狄仁杰
+http://epg.112114.xyz/douyu/6027991
+#EXTINF:-1,王振
+http://epg.112114.xyz/douyu/24939
